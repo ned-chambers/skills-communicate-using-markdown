@@ -4,7 +4,17 @@
 
 ## This is an h2 header
 
+``` python
+print("hello world!")
+```
+
+
 ### This is an h3 header
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 #### This is an h4 header
 
