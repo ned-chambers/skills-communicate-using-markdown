@@ -18,6 +18,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #### This is an h4 header
 
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 ##### This is an h5 header
 
 ###### This is an h6 header
